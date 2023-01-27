@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script/story1.rpy", line 20: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+            $ e("result['msg'])
+
+Ren'Py Version: Ren'Py 8.0.1.22070801
+Fri Jul 22 13:35:19 2022
